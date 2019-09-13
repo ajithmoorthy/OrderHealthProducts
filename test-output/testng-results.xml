@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33200" started-at="2019-09-13T14:37:15Z" finished-at="2019-09-13T14:37:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33200" started-at="2019-09-13T14:37:15Z" finished-at="2019-09-13T14:37:48Z">
+      <class name="org.atmecs.practo.testscripts.PractoHomepage">
+        <test-method status="PASS" signature="baseSetup()[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@1bce4f0a]" name="baseSetup" is-config="true" duration-ms="7857" started-at="2019-09-13T14:37:15Z" finished-at="2019-09-13T14:37:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="practoHome(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@1bce4f0a]" name="practoHome" duration-ms="22947" started-at="2019-09-13T14:37:24Z" data-provider="pharmacy" finished-at="2019-09-13T14:37:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Practo | Book Doctor Appointments Online, Order Medicine, Diagnostic Tests, Consult]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.practo.com/health-products/pain-relief/l]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Fitness & Wellness Products: Buy Online at Best Prices in India | Practo]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pain relief Products: Buy Online at Best Prices in India | Practo]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[B-Protin Powder Chocolate 200 g]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[229]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Apollo Pharmacy Slim Choice Shake Strawberry 500g]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[495]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[724]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[495]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practoHome -->
+        <test-method status="PASS" signature="closedriver()[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@1bce4f0a]" name="closedriver" is-config="true" duration-ms="1159" started-at="2019-09-13T14:37:47Z" finished-at="2019-09-13T14:37:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- org.atmecs.practo.testscripts.PractoHomepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
